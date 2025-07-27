@@ -76,7 +76,7 @@ nbformat==5.10.4
 nest-asyncio==1.6.0
 notebook==7.4.4
 notebook_shim==0.2.4
-numpy @ file:///D:/bld/numpy_1732314314278/work/dist/numpy-2.0.2-cp39-cp39-win_amd64.whl#sha256=8824ea87142626db7bbf79bdbcbd5b3a2fd77d7570bd62b4f705100e42b651e1
+numpy==1.24.3
 opencv-python==4.12.0
 opencv-python-headless==4.12.0
 opt_einsum==3.4.0
